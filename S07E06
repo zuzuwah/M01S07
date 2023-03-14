@@ -1,0 +1,3 @@
+UPDATE CLIENTES
+SET Endereco = 'Rua do Limão'
+WHERE ID = 3 
