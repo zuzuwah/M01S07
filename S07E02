@@ -1,0 +1,4 @@
+INSERT INTO CLIENTES (Id, Nome, Telefone, Endereco) VALUES 
+(1, 'Vinicius Silva', '987654', 'Rua Girassol'),
+(2, 'Maria Antonia', '123456', 'Rua Rosas'),
+(3, 'Marcus Vinicius', '654123', 'Rua Itajai')
