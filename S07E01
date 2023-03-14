@@ -1,0 +1,7 @@
+CREATE TABLE CLIENTES
+(
+	Id INT,
+	Nome VARCHAR (20),
+	Telefone VARCHAR (20),
+	Endereco VARCHAR (100)
+);
